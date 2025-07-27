@@ -1,4 +1,4 @@
-const apiKey = '5d7f04dce9142a6cfa38c36a827d2f2a'; // Replace with your OpenWeatherMap API key
+const apiKey = 'YOUR_API_KEY'; // Replace with your OpenWeatherMap API key
 
 const stateSelect = document.getElementById('stateSelect');
 const citySelect = document.getElementById('citySelect');
